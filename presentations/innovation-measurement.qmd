@@ -1,0 +1,158 @@
+---
+title: Measuring Innovation
+author: Jonas Kreutzer
+date: last-modified
+csl: https://zotero.org/styles/apa?source=1
+# bibliography: [references.bib]
+
+format:
+  pjk_theme_revealjs-revealjs: default
+
+---
+
+
+# R & D 
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+{{< bi check-lg color=green >}} Long Time Series
+
+{{< bi check-lg color=green >}} Decomposable (Type of Research, Org)
+
+{{< bi check-lg color=green >}} Available at Firm Level
+
+<!-- Advantages:
+long time-series
+harmonized throughout OECD, i.e. reasonable degree of comparability
+increasingly possible to distinguish between process and product, basic vs. applied research, research vs. development
+possible to divide between industries, government, higher education, non-profit, sources of finance
+Available in micro data on firm level
+ -->
+
+:::
+
+::: {.column width="60%"}
+
+**Validity**
+{{< bi x-lg color=red >}} Not necessarily innovation
+
+{{< bi x-lg color=red >}} Not the only innovation input
+
+**Reliability**
+
+{{< bi x-lg color=red >}} Biased against small firms
+
+{{< bi x-lg color=red >}} Biased against service / organizational innovation
+
+**Objectivity**
+
+{{< bi x-lg color=red >}} Measurement error due to false allocation of spending
+
+
+
+
+<!-- Partially concerned with early stages – not necessarily innovation
+not the only input: 
+trial production
+market analysis
+training of employees
+investment in fixed assets
+
+bias against small firms - less formal innovation processes
+bias against more service- and/or organizationally-oriented innovation
+sometimes hard to pin-point to location of actual activity: in particular regions and sometimes countries
+Risk that respondents answer wrongly: e.g., R&D contracted to others, by others, in own organization 
+
+ -->
+
+:::
+
+::::
+
+
+# Surveys
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+{{< bi check-lg color=green >}} Widely used
+
+{{< bi check-lg color=green >}} Comperable
+
+
+:::
+
+::: {.column width="60%"}
+
+{{< bi x-lg color=red >}} Biased against small firms and process innovations
+
+
+:::
+
+::::
+
+
+# Patents
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+{{< bi check-lg color=green >}} Long time series
+
+{{< bi check-lg color=green >}} Accessible
+
+{{< bi check-lg color=green >}} Detailed
+
+:::
+
+::: {.column width="60%"}
+
+{{< bi x-lg color=red >}} Differing propensity to patent
+
+{{< bi x-lg color=red >}} Patenting motivation
+
+{{< bi x-lg color=red >}} Possible Industry-Technology mismatch
+
+{{< bi x-lg color=red >}} Multiple patent offices (EPO; USPTO; JPO)
+
+
+<!-- not all innovations are patentable
+not all patentable innovations are patented
+there are differences in the propensity to patent depending on:
+industry
+firm size (but patents/R&D usually higher for small)
+invention type (e.g. product-life cycle position)
+what can be patented has evolved over time
+the cost of imitation
+technological opportunities
+ -->
+
+:::
+
+::::
+
+# LBIO
+
+:::: {.columns}
+
+::: {.column width="40%"}
+
+{{< bi check-lg color=green >}} Widely used
+
+{{< bi check-lg color=green >}} Comperable
+
+
+:::
+
+::: {.column width="60%"}
+
+{{< bi x-lg color=red >}} Biased against small firms and process innovations
+
+
+:::
+
+::::

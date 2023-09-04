@@ -1,0 +1,63 @@
+---
+title: Measuring Innovation
+author: Jonas Kreutzer
+date: last-modified
+csl: https://zotero.org/styles/apa?source=1
+# bibliography: [references.bib]
+
+format: revealjs
+---
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+@smith2006MeasuringInnovation (p. 152) reads, "This similarity in approach incidentally suggests that it makes no sense to use R&D data while rejecting the use of more direct innovation data".
+What do you make of this?
+
+:::
+
+::: {.callout-warning icon="false"}
+## <i class="bi bi-book"></i> Reading Question
+
+@smith2006MeasuringInnovation states that many measures for innovation are the byproduct of other processes.
+Do you think there are issues arising from this?
+<!---Think about e.g. patent race  
+--->
+:::
+
+# Requirements for Measures
+
+What are some basic requirements you would like to have for measurement?
+Generally, we want our measures to be objective, reliable and valid.
+While all of these are important, the biggest challenge in measuring innovation is validity. 
+In order for our measure to be valid, we want to ensure that what we we are comparing apples with apples.
+The key issue therefore is commensurability of innovation.
+
+# Different Sources for Innovation Measures
+
+The linear model of innovation postulates that an agent spends resources on research and development, from which inventions emerge.
+These inventions are then introduced to the market and through this become innovations.
+Finally, sucessful innovations diffuse in the economy and scale to the point that they are taken for granted.
+
+This model is flawed, but for now it will help us think about different possible approaches to measure innovation.
+How would you go about measuring innovation in this model?
+
+In principle, there are two main sources of infomration about what is happening inside the linear chain: the subjects involved and the objects they work on.
+
+
+## Subject Sources
+
+## Object Sources
+
+
+# Cautionary Outlook
+
+At a seminar with policy makers from Africa, who work on stimulating innovation in their countries, we discussed the issue of measuring innovation.
+Many of the participants reflected on the immense efforts undertaken to increase the rate of patents in their economies.
+During the discussion, it appeared to me that the reason for this focus on patents originated from the undertstanding that patents are easy to measure and widely accepted as a measure of innovation.
+However, the question of wether or not more patents really means more innovation is an open debate.
+Consider the drawbacks of patents as a measure we have discussed above.
+Using this measure is biased against process innovations, especially in services and against small firms.
+I believe there are good reasons to be cautious to focus resources on increasing the number of patents in an economy, when the economy might not yet be ready for it. 
+
+In general, we should become suspicious when somebody is attempting to pass of a *measure* as a *target*.
