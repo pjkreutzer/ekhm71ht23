@@ -5,8 +5,6 @@ date: last-modified
 csl: https://zotero.org/styles/apa?source=1
 bibliography: [../references.bib]
 
-output-dir: docs
-
 format:
   pjk_theme_revealjs-revealjs:
     title-slide-attributes:
