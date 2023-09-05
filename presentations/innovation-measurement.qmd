@@ -310,5 +310,14 @@ Source: "Svensk Trävaru- och Pappersmassetidning 9 - 1985
 
 ::::
 
+# Current and Future Trends 
+
+
+Linking of different measurements <br> Example: @johansson2022LinkingInnovationsPatents
+
+Computational data generation <br> @rammer2022UsingBigData
+
+Computational text analysis 
+
 
 ## References
