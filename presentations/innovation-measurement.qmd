@@ -3,7 +3,9 @@ title: Measuring Innovation
 author: Jonas Kreutzer
 date: last-modified
 csl: https://zotero.org/styles/apa?source=1
-# bibliography: [references.bib]
+bibliography: [../references.bib]
+
+output-dir: docs
 
 format:
   pjk_theme_revealjs-revealjs:
@@ -12,6 +14,7 @@ format:
       data-background-position: left
       data-background-size: contain
       data-background-opacity: "0.45"
+    embed-resources: true
 ---
 
 # Subject Oriented Measurements {.inverted}
@@ -21,13 +24,12 @@ format:
 ![](assets/noun-survey-2714919.png)
 
 
-
 **** 
 
 ### Example: European Community Innovation Survey
 
-:::{.container}
-<iframe class="responsive-iframe" src="https://ec.europa.eu/eurostat/cache/website/cis/Surveys/Survey_CIS2022_14_doc.html"></iframe>
+:::{.container }
+<iframe class="responsive-iframe" src="https://ec.europa.eu/eurostat/cache/website/cis/Surveys/Survey_CIS2022_14_doc.html" data-external="1"></iframe>
 :::
 
 :::notes
@@ -116,8 +118,9 @@ format:
 
 [@oecd1994MeasurementScientificTechnical]{.slide-cite}
 
-**** 
-### Types of R & D {.smaller}
+## {.smaller}
+
+### Types of R & D 
 
 ::::{.columns}
 
@@ -313,11 +316,21 @@ Source: "Svensk Trävaru- och Pappersmassetidning 9 - 1985
 # Current and Future Trends 
 
 
-Linking of different measurements <br> Example: @johansson2022LinkingInnovationsPatents
+[Linking of different measurements <br> Example: @johansson2022LinkingInnovationsPatents]{.fragment}
 
-Computational data generation <br> @rammer2022UsingBigData
+[Computational data generation <br> @rammer2022UsingBigData
+]{.fragment}
 
-Computational text analysis 
+[Computational text analysis]{.fragment} 
 
+
+:::notes
+
+**New sources**
+
+- Websites
+
+- Financial Statements
+:::
 
 ## References
