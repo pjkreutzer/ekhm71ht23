@@ -8,7 +8,7 @@ bibliography: [../references.bib]
 format:
   pjk_theme_revealjs-revealjs:
     title-slide-attributes:
-      data-background: "../assets/directionality-cover.png"
+      data-background: "assets/directionality-cover.png"
       data-background-position: "0 -50"
       data-background-size: cover
       data-background-opacity: "1"
@@ -71,7 +71,7 @@ format:
 ## eco-innovation $\neq$ sustainable technology
 
 :::{.fragment}
-![](../assets/assessment.png)
+![](assets/assessment.png)
 
 [@beemsterboer2016SustainabilityAssessmentTechnologies]{.slide-cite}
 :::
@@ -186,13 +186,13 @@ For example contained in,
 
 ## Systemic Tools
 
-![](../assets/network-structures-1.jpg)
+![](assets/network-structures-1.jpg)
 
 IVL - Swedish Environmental Institute [@bergquist2011GreenInnovationSystems]
 
 ## Transition Tools
 
-![@mazzucato2016MarketFixingMarketcreating](../assets/mission-map.png)
+![@mazzucato2016MarketFixingMarketcreating](assets/mission-map.png)
 
 
 :::notes
