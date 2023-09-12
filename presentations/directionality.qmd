@@ -1,0 +1,212 @@
+---
+title: Eco-Innovation and Directionality
+author: Jonas Kreutzer
+date: last-modified
+csl: https://zotero.org/styles/apa?source=1
+bibliography: [../references.bib]
+
+format:
+  pjk_theme_revealjs-revealjs:
+    title-slide-attributes:
+      data-background: "../assets/directionality-cover.png"
+      data-background-position: "0 -50"
+      data-background-size: cover
+      data-background-opacity: "1"
+    embed-resources: true
+---
+
+# Environmental Innovation {.inverted}
+
+##  
+
+**Eco-Innovation = Green Innovation = Environmental Innovation**
+
+
+>...fewer adverse effects on the environment and more efficient use of resources
+[@garcia-granero2018EcoinnovationMeasurementReview 305].
+
+
+## Types of Eco-Innovation{.smaller .scrollable}
+
+**Product**        |                                                                       |
+|------------------|------------------------------------------------------|
+| 101                | Use new cleaner material or new input with lower environmental impact |
+| 102                | Use of recycled materials                                             |
+| 103                | Reduction / optimization of raw material use                          |
+| 104                | Component number reduction                                            |
+| 105                | Elimination of dirty components                                       |
+| 106                | Longer life cycle products                                            |
+| 107                | Recyclability of product                                              |
+|                    |                                                                       |
+| **Process**        |                                                                       |
+| 201                | Reduce Chemical Waste                                                 |
+| 202                | Reduce Use of Water                                                   |
+| 203                | Reduce Use of Energy                                                  |
+| 204                | Keep waste to a minimum                                               |
+| 205                | Reuse of components                                                   |
+| 206                | Recycle waste, water or materials                                     |
+| 207                | Environmental-friendly technologies                                   |
+| 208                | R&D                                                                   |
+| 209                | Acquisition of machinery and software                                 |
+| 210                | Acquisition of patents and licenses                                   |
+|                    |                                                                       |
+| **Organizational** |                                                                       |
+| 301                | Green human resources                                                 |
+| 302                | Pollution prevention plans                                            |
+| 303                | Environmental objectives                                              |
+| 304                | Environmental audit                                                   |
+| 305                | Environmental advisory                                                |
+| 306                | Invest in research                                                    |
+| 307                | Cooperation with stakeholders                                         |
+| 308                | New markets                                                           |
+| 309                | New systems (remanufacturing systems and transport systems)           |
+|                    |                                                                       |
+| **Marketing**      |                                                                       |
+| 401                | Returnable/reusable packaging                                         |
+| 402                | Green design packaging                                                |
+| 403                | Quality certifications                                                |
+
+[@garcia-granero2018EcoinnovationMeasurementReview 309-311] {.slide-cite}
+
+## eco-innovation $\neq$ sustainable technology
+
+:::{.fragment}
+![](../assets/assessment.png)
+
+[@beemsterboer2016SustainabilityAssessmentTechnologies]{.slide-cite}
+:::
+
+:::notes
+**Reading Question**
+
+The chapter is very optimistic as to the possibilities of green innovation solving climate change.
+How do they motivate their optimism?
+What do you think?
+Do you buy into it?
+Why not?
+
+> Jevons paradox
+Offsetting efficiency gains with increased demands
+
+:::
+
+# Directionality {.inverted}
+
+## Directed Technical Change
+
+:::notes
+
+Presents a model of two technology alternatives. One clean and one polluting.
+What are some important limitations of this model for reality? In other words what are the basic assumptions made for this model to work?
+
+> that there exist a finite number of alternatives
+> that there exists a knowable right answer
+
+What does path dependence mean for innovation systems at large?
+What levers can you think of that might help break out of path dependence, when you take a broad systems view?
+:::
+
+### Example paper: @moscona2022DoesDirectedInnovation
+
+[Question]{.text-gray-500} Is innovation in plants directed to increase yield, or resilience of crops?
+
+[Data]{.text-gray-500} U.S. patent data, Plant variety protection certificates & U.S. Department of Agriculture (USDA) Variety Name List
+
+[Main Finding]{.text-gray-500}
+Innovation directed to more resilient crops, driven by local climate conditions
+
+:::notes
+Discussion of data used.
+
+What is measured by this data?
+What type of innovation is this biased against?
+:::
+
+## Directionality
+
+>  : relating to direction or guidance especially of thought or effort 
+
+
+:::notes
+
+> Later this led to the mantrathat government policy should be “technology neutral” (Azar and Sand ́en, 2011), which in effect means that the directionof technological progress in not an issue for politicaldebate and deliberation. ([pdf](zotero://open-pdf/library/items/NGHM33SP?page=3&annotation=H5G2X4WH))
+
+([Andersson et al., 2021, p. 110](zotero://select/library/items/MHKC2Q5V))
+
+**Reading questions**
+
+What is the position of @aghion2021PowerCreativeDestruction on directionality?
+How is this discussion treated?
+What are their normative (implicit) assumptions about technology, innovation and sustainability?
+
+@aghion2021PowerCreativeDestruction mention path dependence.
+What does this mean?
+How does it arise?
+How does this fit into the study of innovation?
+
+
+@aghion2021PowerCreativeDestruction discuss the use of intermediate technology, how do you think about this in terms of developing countries?
+
+What is meant by sociotechnical systems?
+> interaction of society and technology, through institutions, material and behavior
+
+:::
+
+## Eco-Innovation and Directionality in an African Context {.smaller}
+
+![@mulugetta2022AfricaNeedsContextrelevant](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41560-022-01152-0/MediaObjects/41560_2022_1152_Fig2_HTML.png?as=webp){}
+
+:::notes
+**Reading Question**
+On the diffusion of green innovation, they argue that every country has an incentive to free ride on others efforts.
+When taking a global perspective, it seems a geopolitically motivated race emerges between china and the us who will be the front runners of green innovation. How does this fit in with the free rider narrative?
+
+The figure illustrates stylized country-specific solution spaces of the set of different meaningful energy system pathways to meet development goals. It assumes the long-term vision of African countries to achieve clean and sustainable energy systems with universal electricity access. Larger solution space areas indicate larger degrees of uncertainty as to which energy system pathways optimize development outcomes. In Ethiopia, the short-term and long-term favourability of focusing on renewable energy limits these uncertainties, whereas Mozambique has a much wider range of potential pathway options with salient short-term versus long-term development opportunity and risk trade-offs. Pathways are illustrative only
+
+
+:::
+
+
+# Policy {.inverted}
+
+:::notes
+Which ways does @aghion2021PowerCreativeDestruction list to influence the direction of technical change?
+:::
+
+
+## Market Tools
+
+Taxation and Subsidies
+
+For example contained in,
+
+- Bidenomics
+
+- EU Green Deal
+
+## Systemic Tools
+
+![](../assets/network-structures-1.jpg)
+
+IVL - Swedish Environmental Institute [@bergquist2011GreenInnovationSystems]
+
+## Transition Tools
+
+![@mazzucato2016MarketFixingMarketcreating](../assets/mission-map.png)
+
+
+:::notes
+
+If you think back to Bengt-Åke's lecture last week, what policy levers do you think need to be considered in addition?
+
+:::
+
+# Appendix {.appendix .inverted}
+
+## Drawings Environmental Innovation
+
+## Drawings Directionality
+
+## Drawings Policy
+
+# References

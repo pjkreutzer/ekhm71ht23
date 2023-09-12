@@ -1,0 +1,9 @@
+---
+title: Measuring Innovation
+author: Jonas Kreutzer
+date: last-modified
+csl: https://zotero.org/styles/apa?source=1
+bibliography: [references.bib]
+
+format: revealjs
+---

@@ -21,8 +21,7 @@ What do you make of this?
 
 @smith2006MeasuringInnovation states that many measures for innovation are the byproduct of other processes.
 Do you think there are issues arising from this?
-<!---Think about e.g. patent race  
---->
+<!---Think about e.g. patent race  --->
 :::
 
 # Requirements for Measures
