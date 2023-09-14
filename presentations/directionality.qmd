@@ -14,6 +14,12 @@ format:
       data-background-size: cover
 ---
 
+<!-- Improvements for next time
+
+Focus more on explanation of concepts, then perhaps have discussion
+Not at same time
+ -->
+
 # Environmental Innovation {.inverted}
 
 ##  
