@@ -1,0 +1,40 @@
+---
+title: Measurement of Innovation Task
+subtitle: Which are the most innovative countries?
+format: docx
+---
+
+::: {.callout-tip}
+## Learning Objectives
+
+1. Know how to access basic data on innovation indicators for some countries.
+
+2. Be able to list leading innovating countries based on basic innovation indicators.
+
+3. Understand limitations and benefits of different innovation indicators and be able to use it when interpreting innovation data.
+
+:::
+
+
+## Leading Innovating Countries
+
+Research and Development (R&D) and patents are two widespread and easily available indicators of innovation activity.
+
+Using data from the OECD on R&D and patents, identify the five most innovative countries and a country of your choice.
+Use the OECD website (or create a custom graph if you want to) to produce a plot that illustrates the development of each indicator for your countries.
+Briefly describe each plot and comment on similarities or differences you observe.
+
+The data can be accessed here:
+
+1. R&D: [https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm](https://data.oecd.org/rd/gross-domestic-spending-on-r-d.htm)
+2. Patents: [https://data.oecd.org/rd/triadic-patent-families.htm](https://data.oecd.org/rd/triadic-patent-families.htm)
+
+## Critical Assessment of Innovation Measures
+
+R&D expenditure and patents are wide spread indicators of innovation.
+List the strengths of each indicator.
+These indicators, however, are not perfect. Explain their limitations and suggest alternative measures of innovation.
+
+## Bonus
+
+Based on the strenghts and weaknesses of the indicators you identified, please comment on the extent to which you trust the countries you have identified to be "the most innovative" in the world.
